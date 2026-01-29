@@ -54,9 +54,13 @@ Desenvolvedor Python com experiência em análise de dados, automação e desenv
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLucasRod&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucasRod&layout=compact&theme=tokyonight"/>
+  
+![](https://github-readme-stats.vercel.app/api?username=PedroLucasRod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=PedroLucasRod&theme=tokyonight&hide_border=true)
+  
 </div>
+
 
 ---
 
